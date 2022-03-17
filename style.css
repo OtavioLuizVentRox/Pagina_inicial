@@ -1,0 +1,32 @@
+        @charset "UTF-8";
+        body {
+            background-image: linear-gradient(to top, #e3d2f4, #ffd1d0);
+        }
+        
+        img {
+            height: 250px;
+        }
+        
+        header {
+            text-align: center;
+            margin: 4px;
+            padding: 4px;
+        }
+        
+        #cadastro,
+        div {
+            width: 400px;
+            height: 450px;
+            display: inline-block;
+            margin: 5px;
+            padding: 5px;
+            border-radius: 15px 1px 1px 15px;
+            box-shadow: 3px 3px 3px #d3a5a4;
+        }
+        
+        input {
+            margin: 3px;
+            border-radius: 20px;
+            background-color: #d3a5a438;
+            box-shadow: 2px 2px 2px #d6151283;
+        }
